@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: Helvetica;
+	width: 1440px;
+	background-color: #efefef;
+	height: 800px;
+	padding-top: 4px;
+}
+.wraper{
+	width: 510px;
+	height: 750px;
+	margin-top: 4px;
+	background-color: #fff;
+	margin: 0 auto;
+	padding: 50px;
+	line-height: 40px;
+}
+h2{
+	text-align: center;
+}
+img
+{
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: 125px;
+	text-align: center;
+	display:block; margin:0 auto;
+}
+p, a{
+	padding-left: 15px;
+}
+ul {
+	padding-left: 40px;
+}
