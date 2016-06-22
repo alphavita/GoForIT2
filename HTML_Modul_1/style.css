@@ -21,7 +21,7 @@ body{
 .name,
 .content,
 .contact {
- 	border-bottom: 1px solid gray;
+ 	border-bottom: 2px solid grey;
 }
 h2{
 	text-align: center;
