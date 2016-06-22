@@ -18,6 +18,11 @@ body{
 	padding: 50px;
 	line-height: 40px;
 }
+.name,
+.content,
+.contact {
+ 	border-bottom: 1px solid gray;
+}
 h2{
 	text-align: center;
 }
